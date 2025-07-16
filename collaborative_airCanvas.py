@@ -19,7 +19,7 @@ import threading
 from queue import Queue
 
 # Configure Gemini API
-GEMINI_API_KEY = 'AIzaSyA_AOK7n5yHN-hQDRBqmeYaRmOhJp5xXwM'
+GEMINI_API_KEY = 'YOUR_API_KEY'
 try:
     genai.configure(api_key=GEMINI_API_KEY)
     model = genai.GenerativeModel('gemini-1.5-flash')
