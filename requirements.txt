@@ -1,0 +1,8 @@
+opencv-python==4.8.1.78
+mediapipe==0.10.7
+numpy==1.24.3
+google-generativeai==0.3.2
+Pillow==10.0.1
+requests==2.31.0
+websockets==11.0.3
+asyncio 
