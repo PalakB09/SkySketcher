@@ -52,7 +52,7 @@ You should see: `Starting collaborative canvas server on ws://localhost:8765`
 #### Step 2: Start Client(s)
 In separate terminal windows (or on different computers):
 ```bash
-python collaborative_airCanvas.py
+python collaborative_airCanvas_optimized.py
 ```
 
 Each client will connect to the server and be assigned a unique username and color.
@@ -106,5 +106,5 @@ When you click "Save", the application:
 
 ### Components
 1. **WebSocket Server** (`websocket_server.py`): Handles real-time communication
-2. **Collaborative Client** (`collaborative_airCanvas.py`): Main application with collaboration
+2. **Collaborative Client** (`collaborative_airCanvas_optimized.py`): Main application with collaboration
 3. **Original Client** (`airCanvas.py`): Single-user version
