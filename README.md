@@ -108,3 +108,6 @@ When you click "Save", the application:
 1. **WebSocket Server** (`websocket_server.py`): Handles real-time communication
 2. **Collaborative Client** (`collaborative_airCanvas_optimized.py`): Main application with collaboration
 3. **Original Client** (`airCanvas.py`): Single-user version
+
+
+<img src="https://raw.githubusercontent.com/PalakB09/SkySketcher/main/SkySketcher.png" alt="SkySketcher Interface" width="600" height="400"/>
